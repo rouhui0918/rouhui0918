@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rouhui0918
 - 🌱 I’m currently learning data analysis
-- 📫 How to reach me : a0937680918@gmail.com
+- 📫 How to reach me : rouhui0918@gapp.nthu.edu.tw
 
 <!---
 rouhui0918/rouhui0918 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
